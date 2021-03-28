@@ -1,0 +1,10 @@
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\bin\Debug\HoweWork_9_Bancomat.exe.config
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\bin\Debug\HoweWork_9_Bancomat.exe
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\bin\Debug\HoweWork_9_Bancomat.pdb
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\obj\Debug\HoweWork_9_Bancomat.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\obj\Debug\HoweWork_9_Bancomat.exe
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\obj\Debug\HoweWork_9_Bancomat.pdb
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\bin\Debug\LiteDB.dll
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\bin\Debug\LiteDB.xml
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\obj\Debug\HoweWork_9_Bancomat.csproj.CopyComplete
+C:\Users\irish\My documents\C#\HoweWork_9_Bancomat\obj\Debug\HoweWork_9_Bancomat.csprojAssemblyReference.cache

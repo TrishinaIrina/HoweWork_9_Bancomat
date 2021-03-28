@@ -1,0 +1,5 @@
+C:\Users\irish\My documents\C#\LibraryForHW_9\bin\Debug\LibraryForHW_9.dll
+C:\Users\irish\My documents\C#\LibraryForHW_9\bin\Debug\LibraryForHW_9.pdb
+C:\Users\irish\My documents\C#\LibraryForHW_9\obj\Debug\LibraryForHW_9.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\LibraryForHW_9\obj\Debug\LibraryForHW_9.dll
+C:\Users\irish\My documents\C#\LibraryForHW_9\obj\Debug\LibraryForHW_9.pdb
